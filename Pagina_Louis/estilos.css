@@ -1,0 +1,48 @@
+
+article {
+    h2 {
+        color: rgba(33, 91, 91, 0.965);
+        font-size: 100;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .titulos {
+        color: rgb(52, 233, 173);
+        font-size: 110;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    text-align: center;
+    p {
+        color: rgb(238, 234, 227);
+        font-size: 70;
+        text-align: justify;
+    }
+}
+aside {background-color: rgb(208, 217, 36);}
+.titulo{  
+    font-family: "Bebas Neue", sans-serif;
+    text-align: center;
+    font-size: 80px;
+    color: rgb(48, 48, 228);
+}
+.linkfest{
+    text-align: center;
+}
+.enlace {
+    text-align: center;
+    background-color: rgb(180, 177, 177);
+}
+body{
+    background-image: url(https://www.shutterstock.com/image-illustration/abstract-grunge-background-design-textured-260nw-2478000957.jpg);
+    background-size: cover; /* para que se vea bien */
+    background-attachment: fixed;/* para que se vea bien */
+}
+.albums{
+    text-align: center;
+}
+h5{ color: blanchedalmond;}
+.formu {
+    color: aliceblue;
+}
+
+
+   
